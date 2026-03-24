@@ -7,8 +7,7 @@ Deep Reinforcement Learning (Deep RL) using the PPO algorithm to play the 2048 g
 
 2048 is a grid-based puzzle game where you have a 4x4 board and must use arrow keys to move all the tiles a certain direction. You must merge tiles of the same number to combine into tiles of double the value. The aim of the game is to reach a 2048 tile, although the game will only end when you no longer have any valid moves. 
 
-
-<img src="images/2048_game_example.png" alt="2048 Game Board" width="500">
+<img src="images/2048_game_example.png" alt="2048 Game Board" width="400">
 
 ## Approach
 
